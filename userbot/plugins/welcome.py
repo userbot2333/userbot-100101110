@@ -6,7 +6,7 @@
 #
 # Tutti i diritti riservati.
 # 
-# Crediti: @100101110
+# Crediti: @XxGamerYT303
 #
 
 from telethon import events
