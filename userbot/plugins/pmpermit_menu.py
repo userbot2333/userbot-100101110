@@ -22,7 +22,7 @@ from userbot import ALIVE_NAME, LESS_SPAMMY, bot
 from userbot.system import dev_cmd, command
 
 # ================= CONSTANT =================
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "100101110"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "XxGamerYT303"
 PREV_REPLY_MESSAGE = {}
 # ============================================
 
